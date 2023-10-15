@@ -1,2 +1,1 @@
-# codsoft
-Repository of solutions for C++ Tasks given by CodSoft .
+Solution to CodSoft internship task 2, Simple Calculator which can solve Arithmetic Operations such as addition, Substraction etc. Allow the user to input two numbers and choose an operation to perform.
